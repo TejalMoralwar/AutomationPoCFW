@@ -9,8 +9,9 @@ import org.testng.Reporter;
 
 public class PO_LoginParaJunk {
 	
-	//Step 1 Driver
+	//Step 1 Driver webdriver 
 	WebDriver driver;
+	
 	
 	//Step: Paramatrized constructor
 	public PO_LoginParaJunk(WebDriver d) {
